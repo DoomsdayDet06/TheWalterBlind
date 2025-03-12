@@ -1,4 +1,4 @@
-# Th eWalter Blind [MALVERK]
+# The Walter Blind [MALVERK]
 Jesse, you have no discards Jesse
 
 Replaces the sprite for The Water blind to Walter White, the funny meth man.
